@@ -2,6 +2,8 @@
 
 This is a Propane theme similar to the Dark Simplified theme from Linkinus, the Mac IRC client. Since Campfire/Propane is different in a lot of ways, there are some obvious differences in the theme, but it is appealing enough to me that I can work with it given the switch from IRC to Campfire as a communications medium.
 
+The base for this theme is from [mattly's helvetichat](https://github.com/mattly/helvetichat). Mad props to his CSS!
+
 ## Installation
 
 You need *at least* cf_chat.css copied to this folder:
